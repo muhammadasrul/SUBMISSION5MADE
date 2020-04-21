@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Submission5</string>
+    <string name="language_configuration">Language Configuration</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="overview">Overview</string>
+    <string name="language">Language</string>
+    <string name="user_score">User Score</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="tv_show_detail">TV Show Detail</string>
+    <string name="popularity">Popularity</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="tv_show_poster">TV Show Poster</string>
+    <string name="addedtofav">Added to Favorite</string>
+    <string name="deletedfromfav">Deleted from favorite</string>
+    <string name="failed">Failed</string>
+    <string name="no_fav_movie">There are no favorite movies</string>
+    <string name="no_fav_tvshow">There are no favorite tv show</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="daily_message">Want to watch a movie? this is our recommendation for today</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today_reminder">Release Today Reminder</string>
+    <string name="release_today_desc">Notifications every 8 o\'clock in the morning (08.00 AM)</string>
+    <string name="daily_desc">Notifications every 7 o\'clock in the morning (07.00 AM)</string>
+    <string name="daily_on">Daily Reminder: On</string>
+    <string name="release_on">Release Today Reminder: On</string>
+    <string name="daily_off">Daily Reminder: Off</string>
+    <string name="release_off">Release Today Reminder: Off</string>
+    <string name="release_message">New movie have been released today</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="no_data">No Data</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tvshow">Search TV Show</string>
+</resources>
